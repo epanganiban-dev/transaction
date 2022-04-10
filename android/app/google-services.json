@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697783594074",
+    "project_id": "f-epanganiban",
+    "storage_bucket": "f-epanganiban.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697783594074:android:0cbaec619e2a6f7a483c63",
+        "android_client_info": {
+          "package_name": "com.epanganiban.transaction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697783594074-ckdmpvgeklf84j58i2tnpbtmu94289ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0b32UX50CK9ttdf2KdlxHrP8OEWbDmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697783594074-ckdmpvgeklf84j58i2tnpbtmu94289ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
