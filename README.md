@@ -1,6 +1,6 @@
 # transaction
 
-A new Flutter project.
+A sample cash in transaction using flutter
 
 ## Getting Started
 
